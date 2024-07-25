@@ -14,15 +14,15 @@ By providing a simple yet powerful tool, I hope to help users understand and imp
 **Project Type:** Mobile<br>
 
 ## Demo
-<img width="300" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/e61060f4-5fd6-442d-a8b0-d686d6788560">
-<img width="300" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/d435e873-8300-4a6e-9777-7d2407b9cf36">
-<img width="300" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/3865f597-6615-4058-a80b-fb80a9cd3536"><br>
+<img width="200" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/e61060f4-5fd6-442d-a8b0-d686d6788560">
+<img width="200" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/d435e873-8300-4a6e-9777-7d2407b9cf36">
+<img width="200" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/3865f597-6615-4058-a80b-fb80a9cd3536"><br>
 
 💸 User-friendly budget tracking<br>
 👀 Ability to add expenses or income, add a description, and choose its category<br><br>
-<img width="300" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/7675048e-28ce-47f3-addb-6da9533789cb">
-<img width="300" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/660365a7-1506-453b-87d7-b47e7d4d0184">
-<img width="300" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/fe5b683b-06b1-48a2-9181-1e393f39c33e"><br>
+<img width="200" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/7675048e-28ce-47f3-addb-6da9533789cb">
+<img width="200" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/660365a7-1506-453b-87d7-b47e7d4d0184">
+<img width="200" alt="FinTrack Demo" src="https://github.com/user-attachments/assets/fe5b683b-06b1-48a2-9181-1e393f39c33e"><br>
 📊 Beautifully crafted bar graphs showcasing weekly income and expenses., with ability to view previous and next weeks<br>
 📝 Able to scroll through previous transactions and delete them
 
